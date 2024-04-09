@@ -1,0 +1,11 @@
+@CLEAR
+Manipal BANK,
+
+Bank of Trust since 2024
+-------------------------
+Login Menu
+
+a. Login to your account
+b. Exit
+
+Enter your choice: 

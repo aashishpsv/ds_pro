@@ -1,0 +1,12 @@
+@CLEAR
+Manipal Bank ADMIN MENU
+-----------------------------
+Options
+
+a. Create a new account
+b. Close an account
+c. View all accounts
+d. View all transactions
+e. Log out
+
+Enter your choice: 

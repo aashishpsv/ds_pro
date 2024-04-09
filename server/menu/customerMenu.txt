@@ -1,0 +1,16 @@
+@CLEAR
+Manipal BANK CUSTOMER MENU
+-------------------------------
+Account number: {account_num}
+Balance: {balance} Rs
+
+Options
+
+a. Refresh
+b. Make a deposit
+c. Make a withdrawal
+d. Transfer money
+e. See transaction history
+f. Log out
+
+Enter your choice: 
